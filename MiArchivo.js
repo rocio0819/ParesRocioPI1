@@ -3,7 +3,7 @@
 <body>
 <p> Antes de la secuencia de comandos ... </p>
 <script>
-alert('¡Hola mundo!');
+alert('¡Buenas Tardes!');
 </script>
 <p> ... Después de la secuencia de comandos. </p>
 </body>
